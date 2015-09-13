@@ -3,3 +3,6 @@
 
 Please follow these instructions to import this project to Unity
 http://blog.hfarazm.com/git-for-unity-create-projects/
+
+
+![alt tag](https://raw.githubusercontent.com/gamerswhocode/space_shooter/master/img/spaceShooter1.png)
